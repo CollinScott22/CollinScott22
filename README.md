@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CollinScott22
-- 👀 I’m interested in Python and Web Development
+- 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning to use more advanced algorithms more often
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
